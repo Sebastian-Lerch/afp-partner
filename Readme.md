@@ -1,4 +1,4 @@
-#How to use this reposititory
+# How to use this reposititory
 
 **This is still work in progress**
 
